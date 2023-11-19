@@ -1,0 +1,14 @@
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.exe
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.deps.json
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.runtimeconfig.json
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\bin\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.AssemblyInfo.cs
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.dll
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\refint\QuadraticEquation.dll
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.pdb
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\QuadraticEquation.genruntimeconfig.cache
+C:\Users\Pohil\source\repos\Sana02\QuadraticEquation\obj\Debug\net6.0\ref\QuadraticEquation.dll
